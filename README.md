@@ -39,13 +39,13 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ythStevin0&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythStevin0&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=ythStevin0_&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythStevin0_&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
 <br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ythStevin0&theme=radical&hide_border=false" height="150" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ythStevin0_&theme=radical&hide_border=false" height="150" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ythStevin0&icon=5&color=3" />
+  <img src="https://visitcount.itsvg.in/api?id=ythStevin0_&icon=5&color=3" />
 </p>
